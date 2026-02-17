@@ -1,6 +1,6 @@
 # OxGuide Privacy Policy
 
-**Last Updated: January 5, 2026**
+**Last Updated: February 17, 2026**
 **Effective Date: January 5, 2026**
 
 ## 1. Introduction
@@ -95,7 +95,10 @@ We share data with the following service providers who process data on our behal
 | **Mapbox** | Maps and navigation | Location data (anonymized) | [Mapbox Privacy Policy](https://www.mapbox.com/legal/privacy) |
 | **Google Places API** | Place information and photos | Location queries | [Google Privacy Policy](https://policies.google.com/privacy) |
 | **RevenueCat** | Subscription management | Purchase data, user ID | [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy) |
-| **Groq/LangGraph** | AI conversation processing | Chat messages, landmark context | Processed per our data agreement |
+| **Groq** | AI model inference for tour guide responses | Chat messages, landmark context, pseudonymous user ID | [Groq Privacy Policy](https://groq.com/privacy-policy/) |
+| **LangChain / LangGraph** | AI conversation orchestration | Chat messages, landmark context, pseudonymous user ID | [LangChain Privacy Policy](https://www.langchain.com/privacy-policy) |
+| **LangSmith (by LangChain)** | AI conversation tracing and quality monitoring | Chat messages, conversation metadata | [LangChain Privacy Policy](https://www.langchain.com/privacy-policy) |
+| **Fly.io** | Cloud hosting for AI backend server | Chat messages in transit, processed in memory | [Fly.io Privacy Policy](https://fly.io/legal/privacy-policy/) |
 
 ### 4.2 We Do NOT:
 - Sell your personal information to third parties
@@ -272,4 +275,4 @@ Our landmark detection feature uses on-device machine learning (TensorFlow Lite)
 
 ---
 
-*This Privacy Policy was last updated on January 5, 2026.*
+*This Privacy Policy was last updated on February 17, 2026.*

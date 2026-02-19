@@ -1,6 +1,6 @@
 # OxGuide Privacy Policy
 
-**Last Updated: February 17, 2026**
+**Last Updated: February 19, 2026**
 **Effective Date: January 5, 2026**
 
 ## 1. Introduction
@@ -98,6 +98,8 @@ We share data with the following service providers who process data on our behal
 | **Groq** | AI model inference for tour guide responses | Chat messages, landmark context, pseudonymous user ID | [Groq Privacy Policy](https://groq.com/privacy-policy/) |
 | **LangChain / LangGraph** | AI conversation orchestration | Chat messages, landmark context, pseudonymous user ID | [LangChain Privacy Policy](https://www.langchain.com/privacy-policy) |
 | **LangSmith (by LangChain)** | AI conversation tracing and quality monitoring | Chat messages, conversation metadata | [LangChain Privacy Policy](https://www.langchain.com/privacy-policy) |
+| **Tavily** | Web search for landmark information | Search queries about landmarks | [Tavily Privacy Policy](https://www.tavily.com/privacy) |
+| **Amazon Polly (AWS)** | Text-to-speech for AI guide narration | AI-generated landmark descriptions (no user messages) | [AWS Privacy Policy](https://aws.amazon.com/privacy/) |
 | **Fly.io** | Cloud hosting for AI backend server | Chat messages in transit, processed in memory | [Fly.io Privacy Policy](https://fly.io/legal/privacy-policy/) |
 
 ### 4.2 We Do NOT:
@@ -275,4 +277,4 @@ Our landmark detection feature uses on-device machine learning (TensorFlow Lite)
 
 ---
 
-*This Privacy Policy was last updated on February 17, 2026.*
+*This Privacy Policy was last updated on February 19, 2026.*

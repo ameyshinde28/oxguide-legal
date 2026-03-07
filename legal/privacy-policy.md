@@ -213,8 +213,17 @@ If you believe we have collected information from a child, please contact us imm
 
 ## 10. How to Delete Your Data
 
-### Delete AI Conversation History:
-To delete your AI conversation history, email hello@oxguide.com with subject "Delete Chat History Request". Include the email address associated with your account. We will process your request within 30 days.
+### Delete Specific Data Types:
+You can request deletion of specific data without deleting your entire account. Email hello@oxguide.com with any of the following subject lines:
+
+| Data Type | Email Subject | What Gets Deleted |
+|-----------|--------------|-------------------|
+| AI Conversations | "Delete Chat History Request" | All AI guide conversation history and chat threads |
+| Saved Lists | "Delete Saved Lists Request" | All saved places lists and itineraries |
+| Navigation Data | "Delete Navigation Data Request" | Navigation history, route data, and location history |
+| App Preferences | "Delete Preferences Request" | All app settings, analytics consent, and cached data |
+
+Include the email address associated with your account. We will process your request within 30 days.
 
 ### Delete Your Account:
 
@@ -232,12 +241,18 @@ To delete your AI conversation history, email hello@oxguide.com with subject "De
 **Option 3: Web Request**
 Visit our [Account Deletion Page](https://ameyshinde28.github.io/oxguide-legal/legal/delete-account) for instructions.
 
-Upon account deletion:
-- Account information is permanently deleted
-- AI conversation history is deleted
-- Saved places lists and itineraries are deleted
-- Purchase records are retained for 7 years per legal requirements
-- Anonymized analytics data may be retained
+Upon account deletion, the following data is **permanently deleted**:
+- Account information (email, display name, profile)
+- AI conversation history and chat threads
+- Saved places lists and itineraries
+- Navigation history and route data
+- App preferences and settings (including analytics consent)
+- Partner attribution data
+- Landmark detection history
+
+The following data may be **retained** after account deletion:
+- Purchase and transaction records — retained for 7 years as required by law for tax and accounting purposes
+- Anonymized, aggregated analytics data that cannot be linked back to you
 
 ---
 

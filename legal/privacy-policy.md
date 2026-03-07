@@ -217,17 +217,27 @@ If you believe we have collected information from a child, please contact us imm
 To delete your AI conversation history, email hello@oxguide.com with subject "Delete Chat History Request". Include the email address associated with your account. We will process your request within 30 days.
 
 ### Delete Your Account:
+
+**Option 1: In-App Deletion**
+1. Open the OxGuide app
+2. Go to the **Profile** tab
+3. Scroll down and tap **Delete Account**
+4. Confirm the deletion
+
+**Option 2: Email Request**
 1. Email hello@oxguide.com with subject "Account Deletion Request"
 2. Include the email address associated with your account
 3. We will process your request within 30 days
 
+**Option 3: Web Request**
+Visit our [Account Deletion Page](https://ameyshinde28.github.io/oxguide-legal/legal/delete-account) for instructions.
+
 Upon account deletion:
 - Account information is permanently deleted
 - AI conversation history is deleted
+- Saved places lists and itineraries are deleted
 - Purchase records are retained for 7 years per legal requirements
 - Anonymized analytics data may be retained
-
-*Note: We are working on adding in-app data deletion controls in a future update.*
 
 ---
 

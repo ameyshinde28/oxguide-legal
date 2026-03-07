@@ -1,6 +1,6 @@
 # OxGuide Privacy Policy
 
-**Last Updated: February 19, 2026**
+**Last Updated: March 7, 2026**
 **Effective Date: January 5, 2026**
 
 ## 1. Introduction
@@ -59,6 +59,11 @@ We are committed to protecting your privacy and ensuring transparency about our 
 - App performance metrics
 - Crash reports and error logs
 
+**Partner Attribution Data:**
+- On Android, we may read the Play Store install referrer to determine if you installed the app via a partner link (e.g., QR code at a hotel or tourist attraction)
+- On iOS and as a fallback on Android, we may read your device clipboard once at first launch to check for a partner attribution code. The clipboard is read only once, and any attribution code found is immediately cleared from the clipboard
+- Attribution data (partner ID, timestamp) is stored to credit the referring partner. No other clipboard content is collected or stored
+
 ### 2.3 Information from Third Parties
 
 We may receive information from third-party services you use to sign in:
@@ -101,6 +106,8 @@ We share data with the following service providers who process data on our behal
 | **Tavily** | Web search for landmark information | Search queries about landmarks | [Tavily Privacy Policy](https://www.tavily.com/privacy) |
 | **Amazon Polly (AWS)** | Text-to-speech for AI guide narration | AI-generated landmark descriptions (no user messages) | [AWS Privacy Policy](https://aws.amazon.com/privacy/) |
 | **Fly.io** | Cloud hosting for AI backend server | Chat messages in transit, processed in memory | [Fly.io Privacy Policy](https://fly.io/legal/privacy-policy/) |
+| **Google Sign-In** | Authentication via Google account | Email address, display name, profile picture URL | [Google Privacy Policy](https://policies.google.com/privacy) |
+| **Android Play Install Referrer** | Partner attribution tracking | Install referrer URL (contains partner ID if installed via partner link) | [Google Privacy Policy](https://policies.google.com/privacy) |
 
 ### 4.2 We Do NOT:
 - Sell your personal information to third parties

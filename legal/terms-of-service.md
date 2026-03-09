@@ -200,6 +200,9 @@ We are not responsible for third-party services, including:
 - Place information correctness
 - Payment processing issues handled by app stores
 
+### 11.4 Independence
+OxGuide is an independent app and is not affiliated with, endorsed by, or sponsored by the University of Oxford or any of its colleges. All university and college names, logos, and trademarks are the property of their respective owners and are used for identification purposes only.
+
 ---
 
 ## 12. Limitation of Liability

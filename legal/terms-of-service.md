@@ -1,7 +1,7 @@
 # OxGuide Terms of Service
 
-**Last Updated: January 5, 2026**
-**Effective Date: January 5, 2026**
+**Last Updated: March 9, 2026**
+**Effective Date: March 9, 2026**
 
 ## 1. Agreement to Terms
 
@@ -52,8 +52,14 @@ You are responsible for:
 
 We are not liable for any loss arising from unauthorized use of your account.
 
-### 4.3 Account Termination
-You may delete your account at any time by contacting hello@oxguide.com. We reserve the right to suspend or terminate accounts that violate these Terms.
+### 4.3 Account Deletion
+You may delete your account at any time by:
+- Using the in-app account deletion feature (Profile > Help & About > Delete Account), or
+- Contacting us at hello@oxguide.com
+
+Upon deletion, all your personal data — including your profile, saved lists, chat history, and purchase records — will be permanently removed from our systems. This action cannot be undone.
+
+We reserve the right to suspend or terminate accounts that violate these Terms.
 
 ---
 
@@ -226,7 +232,7 @@ You agree to indemnify, defend, and hold harmless OxGuide and its officers, dire
 ## 14. Termination
 
 ### 14.1 By You
-You may stop using the App and delete your account at any time.
+You may stop using the App and delete your account at any time through the in-app deletion feature (Profile > Help & About > Delete Account) or by contacting hello@oxguide.com.
 
 ### 14.2 By Us
 We may suspend or terminate your access if you:
@@ -306,4 +312,4 @@ BY USING THE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO B
 
 ---
 
-*These Terms of Service were last updated on January 5, 2026.*
+*These Terms of Service were last updated on March 9, 2026.*

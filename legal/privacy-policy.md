@@ -1,6 +1,6 @@
 # OxGuide Privacy Policy
 
-**Last Updated: March 7, 2026**
+**Last Updated: March 9, 2026**
 **Effective Date: January 5, 2026**
 
 ## 1. Introduction
@@ -244,6 +244,7 @@ Visit our [Account Deletion Page](https://ameyshinde28.github.io/oxguide-legal/l
 Upon account deletion, the following data is **permanently deleted**:
 - Account information (email, display name, profile)
 - AI conversation history and chat threads
+- AI-generated landmark context and itinerary data stored on our AI backend
 - Saved places lists and itineraries
 - Navigation history and route data
 - App preferences and settings (including analytics consent)
@@ -309,4 +310,4 @@ Our landmark detection feature uses on-device machine learning (TensorFlow Lite)
 
 ---
 
-*This Privacy Policy was last updated on February 19, 2026.*
+*This Privacy Policy was last updated on March 9, 2026.*
